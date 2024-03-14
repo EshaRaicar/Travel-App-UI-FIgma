@@ -5,5 +5,6 @@ UI Designing using Figma
 
 Image Credits :
 
-Main Page / Frame 1 - Rayyu Maldives --> https://unsplash.com/photos/white-ship-4F4OtnNjpmc (Unplash) 
-Second Page / Frames 2 and 3 - Jeremy Allouche --> https://unsplash.com/photos/green-tree-near-body-of-water-JWQ7th6UNwE (Unplash)
+- Main Page / Frame 1 - Rayyu Maldives --> https://unsplash.com/photos/white-ship-4F4OtnNjpmc (Unplash) 
+
+- Second Page / Frames 2 and 3 - Jeremy Allouche --> https://unsplash.com/photos/green-tree-near-body-of-water-JWQ7th6UNwE (Unplash)
